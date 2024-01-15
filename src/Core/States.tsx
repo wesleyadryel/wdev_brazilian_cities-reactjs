@@ -55,7 +55,7 @@ const StateElement = ({ setState }: { setState: stateActionProps }) => {
       <div className='h-modal w-full relative '>
 
         <div className='w-full h-10 mt-2 flex justify-center items-center mb-4   '>
-          <span className='text-sm w-fit text-nowrap p-2 '>Pesquise um Estado</span>
+          <span className='text-sm w-fit text-nowrap p-2 '>Pesquise um estado</span>
           <div className='w-full flex justify-start items-start '>
             <InputComponent
               className='rounded-md h-3/6 w-11/12 !border-1 !border-gray-300 !border-solid '
